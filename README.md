@@ -13,6 +13,13 @@ Build a recommendation system by merging multiple CSV files containing the below
 9. score_max: highest rating given for the phone
 10. source: source from where the rating was taken
 
-Collaborative filtering model were built using 
+A. Popularity based model was built and used to recommend top 5 mobile phones
+
+B. Collaborative filtering models were built using 
 1. SVD
 2. kNNWithMeans
+
+Item based and user based models were implemented.
+
+
+
